@@ -277,7 +277,7 @@
     (property "ki_keywords" "usb universal serial bus type-C USB2.0")
     (path "/57906c87-d8d6-460e-8805-e954410b694a")
     (attr smd)
-    (fp_text reference "J3" (at 0 -5.645 90) (layer "F.SilkS")
+    (fp_text reference "J3" (at 0 -5.842 -180) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 06e749df-6c76-4f63-bc31-363a2b8021b5)
     )
